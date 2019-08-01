@@ -20,6 +20,5 @@
   },
   "dependencies": {
     "@babel/preset-react": "^7.0.0",
-    "js-md5": "^0.7.3"
   }
 }
